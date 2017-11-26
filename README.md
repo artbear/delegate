@@ -1,5 +1,7 @@
 # Делегаты
 
+Обсудить [![Join the chat at https://gitter.im/EvilBeaver/oscript-library](https://badges.gitter.im/EvilBeaver/oscript-library.svg)](https://gitter.im/EvilBeaver/oscript-library?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GitHub release](https://img.shields.io/github/release/artbear/delegate.svg)](https://github.com/artbear/delegate/releases) [![Build Status](http://build.oscript.io/buildStatus/icon?job=oscript-library/delegate/master)](http://build.oscript.io/job/oscript-library/job/delegate/job/master/) 
+
 Библиотека предназначена для создания и выполнения делегатов/функторов.
 
 Делегат представляет собой объект, который может ссылаться на метод другого объекта.
